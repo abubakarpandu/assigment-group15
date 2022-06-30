@@ -1,7 +1,8 @@
 #include<stdio.h>
 void exchange(int *p,int *q);
 
-int main(){
+int main()
+{
 int c,d;
 printf("enter c and d\n");
 scanf("%d%d",&c,&d);
