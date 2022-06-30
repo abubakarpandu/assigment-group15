@@ -28,19 +28,4 @@ for (i=0; i<10; i++){
  
 	
 	}
-//		start
-//	function declaration
-//	declaration of pointer variable,and array
-//	function Calling
-//	Assign elelmenet in the array
-//	Assign address in the pointer
-//	loop for decision making
-//	Test condition if(p[i]==q[i])
-//	reurn true
-//	else
-//	return false
-	
- //    End 
-	
-	
-//	)
+
