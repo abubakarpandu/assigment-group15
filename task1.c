@@ -1,13 +1,12 @@
 #include<stdio.h>
 void exchange(int *p,int *q);
 
-int main()
-{
-int c,d;
-printf("enter c and d\n");
-scanf("%d%d",&c,&d);
-exchange(&c,&d);
-printf("c=%d and d=%d",c,d);
+int main(){
+int a,b;
+printf("enter a and b\n");
+scanf("%d%d",&a,&b);
+exchange(&a,&b);
+printf("a=%d and b=%d",a,b);
 return 0;
 }
 void exchange(int *p,int *q){
